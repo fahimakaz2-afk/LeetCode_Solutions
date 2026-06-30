@@ -14,4 +14,12 @@ This repository contains my leetcode solutions.💚
 | ------- |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
