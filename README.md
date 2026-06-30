@@ -17,11 +17,17 @@ This repository contains my leetcode solutions.💚
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0344-reverse-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
