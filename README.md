@@ -17,9 +17,11 @@ This repository contains my leetcode solutions.💚
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
