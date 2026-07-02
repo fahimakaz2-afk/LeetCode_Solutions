@@ -83,6 +83,7 @@ This repository contains my leetcode solutions.💚
 |  |
 | ------- |
 | [0046-permutations](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
