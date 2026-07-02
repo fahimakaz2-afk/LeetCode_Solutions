@@ -7,6 +7,7 @@ This repository contains my leetcode solutions.💚
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -81,6 +82,7 @@ This repository contains my leetcode solutions.💚
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
