@@ -11,6 +11,7 @@ This repository contains my leetcode solutions.💚
 | [0078-subsets](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0704-binary-search](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -91,4 +92,8 @@ This repository contains my leetcode solutions.💚
 | ------- |
 | [0078-subsets](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
