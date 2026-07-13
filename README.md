@@ -96,4 +96,8 @@ This repository contains my leetcode solutions.💚
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0704-binary-search) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
