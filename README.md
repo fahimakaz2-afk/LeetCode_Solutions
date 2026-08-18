@@ -16,6 +16,7 @@ This repository contains my leetcode solutions.💚
 | [0912-sort-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [2460-apply-operations-to-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -28,6 +29,7 @@ This repository contains my leetcode solutions.💚
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0344-reverse-string) |
+| [2460-apply-operations-to-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -102,4 +104,8 @@ This repository contains my leetcode solutions.💚
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1291-sequential-digits) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
