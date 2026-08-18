@@ -8,6 +8,7 @@ This repository contains my leetcode solutions.💚
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0090-subsets-ii) |
@@ -27,6 +28,7 @@ This repository contains my leetcode solutions.💚
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [2460-apply-operations-to-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
