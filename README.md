@@ -21,6 +21,7 @@ This repository contains my leetcode solutions.💚
 | [1380-lucky-numbers-in-a-matrix](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2460-apply-operations-to-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Matrix
 |  |
@@ -125,4 +126,8 @@ This repository contains my leetcode solutions.💚
 | [0001-two-sum](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
