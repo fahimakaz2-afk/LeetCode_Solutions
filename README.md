@@ -13,6 +13,7 @@ This repository contains my leetcode solutions.💚
 | [0046-permutations](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0283-move-zeroes) |
@@ -110,6 +111,7 @@ This repository contains my leetcode solutions.💚
 | ------- |
 | [0078-subsets](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
