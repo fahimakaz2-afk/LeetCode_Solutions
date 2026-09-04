@@ -28,6 +28,7 @@ This repository contains my leetcode solutions.💚
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2460-apply-operations-to-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -151,4 +152,8 @@ This repository contains my leetcode solutions.💚
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
