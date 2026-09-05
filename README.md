@@ -29,6 +29,7 @@ This repository contains my leetcode solutions.💚
 | [2460-apply-operations-to-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -156,4 +157,5 @@ This repository contains my leetcode solutions.💚
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
