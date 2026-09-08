@@ -154,6 +154,7 @@ This repository contains my leetcode solutions.💚
 | [0013-roman-to-integer](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [3870-count-commas-in-range](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Manacher
 |  |
