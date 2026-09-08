@@ -10,6 +10,7 @@ This repository contains my leetcode solutions.💚
 | [0001-two-sum](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
@@ -126,6 +127,7 @@ This repository contains my leetcode solutions.💚
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0278-first-bad-version) |
