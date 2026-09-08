@@ -128,6 +128,7 @@ This repository contains my leetcode solutions.💚
 | ------- |
 | [0035-search-insert-position](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0704-binary-search) |
 ## Enumeration
@@ -167,4 +168,8 @@ This repository contains my leetcode solutions.💚
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
