@@ -8,6 +8,7 @@ This repository contains my leetcode solutions.💚
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -42,6 +43,7 @@ This repository contains my leetcode solutions.💚
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
@@ -152,6 +154,7 @@ This repository contains my leetcode solutions.💚
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Math
 |  |
