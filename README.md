@@ -72,6 +72,7 @@ This repository contains my leetcode solutions.💚
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
@@ -177,4 +178,8 @@ This repository contains my leetcode solutions.💚
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
