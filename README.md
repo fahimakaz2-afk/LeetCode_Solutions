@@ -172,6 +172,7 @@ This repository contains my leetcode solutions.💚
 | [0189-rotate-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+| [2525-categorize-box-according-to-criteria](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [3870-count-commas-in-range](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Manacher
