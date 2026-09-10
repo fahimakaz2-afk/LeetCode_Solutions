@@ -9,6 +9,7 @@ This repository contains my leetcode solutions.💚
 | ------- |
 | [0001-two-sum](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -44,6 +45,7 @@ This repository contains my leetcode solutions.💚
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
@@ -86,6 +88,7 @@ This repository contains my leetcode solutions.💚
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
