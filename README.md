@@ -32,6 +32,7 @@ This repository contains my leetcode solutions.💚
 | [1748-sum-of-unique-elements](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2460-apply-operations-to-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -81,6 +82,7 @@ This repository contains my leetcode solutions.💚
 | [0206-reverse-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0394-decode-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,6 +150,7 @@ This repository contains my leetcode solutions.💚
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -161,6 +164,7 @@ This repository contains my leetcode solutions.💚
 | [0268-missing-number](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
