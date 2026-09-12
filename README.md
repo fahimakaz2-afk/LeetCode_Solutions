@@ -65,6 +65,7 @@ This repository contains my leetcode solutions.💚
 | [0344-reverse-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ This repository contains my leetcode solutions.💚
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0394-decode-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +157,7 @@ This repository contains my leetcode solutions.💚
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2460-apply-operations-to-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
