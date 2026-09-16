@@ -55,6 +55,7 @@ This repository contains my leetcode solutions.💚
 | [0283-move-zeroes](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [2460-apply-operations-to-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
@@ -65,6 +66,7 @@ This repository contains my leetcode solutions.💚
 | [0344-reverse-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+| [0567-permutation-in-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
 |  |
@@ -166,6 +168,7 @@ This repository contains my leetcode solutions.💚
 | [0013-roman-to-integer](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [1748-sum-of-unique-elements](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
@@ -203,4 +206,8 @@ This repository contains my leetcode solutions.💚
 | [0002-add-two-numbers](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
