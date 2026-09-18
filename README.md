@@ -16,6 +16,7 @@ This repository contains my leetcode solutions.💚
 | [0035-search-insert-position](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0136-single-number) |
@@ -49,6 +50,7 @@ This repository contains my leetcode solutions.💚
 | [0015-3sum](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
@@ -97,6 +99,7 @@ This repository contains my leetcode solutions.💚
 |  |
 | ------- |
 | [0015-3sum](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -210,4 +213,12 @@ This repository contains my leetcode solutions.💚
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
