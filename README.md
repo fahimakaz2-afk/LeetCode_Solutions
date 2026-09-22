@@ -66,6 +66,7 @@ This repository contains my leetcode solutions.💚
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0394-decode-string) |
@@ -81,6 +82,7 @@ This repository contains my leetcode solutions.💚
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -225,4 +227,8 @@ This repository contains my leetcode solutions.💚
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
