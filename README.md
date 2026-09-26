@@ -53,6 +53,7 @@ This repository contains my leetcode solutions.💚
 | [0027-remove-element](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0283-move-zeroes) |
@@ -68,6 +69,7 @@ This repository contains my leetcode solutions.💚
 | [0013-roman-to-integer](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
