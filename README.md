@@ -59,6 +59,7 @@ This repository contains my leetcode solutions.💚
 | [0283-move-zeroes](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -73,6 +74,7 @@ This repository contains my leetcode solutions.💚
 | [0344-reverse-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
