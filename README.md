@@ -179,6 +179,7 @@ This repository contains my leetcode solutions.💚
 | ------- |
 | [0001-two-sum](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0268-missing-number](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
@@ -218,6 +219,7 @@ This repository contains my leetcode solutions.💚
 | ------- |
 | [0002-add-two-numbers](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
