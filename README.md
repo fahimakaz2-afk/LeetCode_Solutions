@@ -222,6 +222,7 @@ This repository contains my leetcode solutions.💚
 | [0138-copy-list-with-random-pointer](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
@@ -239,4 +240,12 @@ This repository contains my leetcode solutions.💚
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
