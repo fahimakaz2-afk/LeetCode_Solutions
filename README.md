@@ -63,6 +63,7 @@ This repository contains my leetcode solutions.💚
 | [0443-string-compression](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
@@ -230,6 +231,7 @@ This repository contains my leetcode solutions.💚
 | [0234-palindrome-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
