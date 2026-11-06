@@ -82,6 +82,7 @@ This repository contains my leetcode solutions.💚
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -196,6 +197,7 @@ This repository contains my leetcode solutions.💚
 | ------- |
 | [0002-add-two-numbers](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
@@ -250,4 +252,8 @@ This repository contains my leetcode solutions.💚
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
