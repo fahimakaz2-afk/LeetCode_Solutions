@@ -35,6 +35,7 @@ This repository contains my leetcode solutions.💚
 | [1748-sum-of-unique-elements](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2460-apply-operations-to-an-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
