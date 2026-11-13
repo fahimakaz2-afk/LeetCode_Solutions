@@ -167,6 +167,7 @@ This repository contains my leetcode solutions.💚
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -203,6 +204,7 @@ This repository contains my leetcode solutions.💚
 | ------- |
 | [0002-add-two-numbers](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -264,4 +266,8 @@ This repository contains my leetcode solutions.💚
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/fahimakaz2-afk/LeetCode_Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
